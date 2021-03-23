@@ -4,9 +4,9 @@ I just finished my senior year of highschool, I am very smart.
 It would mean the world to me you could send me a shirt so I could represent your university.
 Could you please send to 
 
-{First and Last Name}
-{Address}
-{Town} {City} {Zip}
+{Hayden Marriott}
+{18208 east 26th terrace court south}
+{Independence } {Missouri } {64057}
 
 Thank you,
 {FirstName}
